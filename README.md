@@ -128,7 +128,7 @@ personality-cv-ai/
 ## 🎥 Demo Video
 
 👉 Watch full working demo here:
-🔗 https://github.com/your-username/personality-cv-ai/blob/main/demo.mp4
+🔗 https://www.linkedin.com/posts/deepika-gautam-a0ab92327_hexsoftwares-machinelearning-artificialintelligence-activity-7456358254336462849-HvCH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKUICoBWQ1y1WUWHG2wbmv8s60TktI6LV0
 
 
 ---
